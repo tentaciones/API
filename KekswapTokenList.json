@@ -11,7 +11,7 @@
   "timestamp": "2022-01-26T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 420666,
+      "chainId": 1,
       "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
       "symbol": "KEK",
       "name": "KEK TOKEN",
@@ -19,12 +19,19 @@
       "tags": ["defi"]
     },
     {
-      "chainId": 420666,
+      "chainId": 1,
       "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
       "symbol": "KEX",
       "name": "KEKSWAP",
       "decimals": 18,
       "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+      "name": "UMA",
+      "symbol": "UMA",
+      "decimals": 18
     }
   ],
   "version": {
