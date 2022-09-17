@@ -1,0 +1,35 @@
+{
+  "name": "KEKDEX",
+  "logoURI": "https://helios-i.mashable.com/imagery/articles/04i1KeWXNed98aQakEZjeOs/hero-image.fill.size_1200x900.v1623362896.jpg",
+  "keywords": ["Defi", "KEKDEX", "curated"],
+  "tags": {
+    "defi": {
+      "name": "DeFi Tokens",
+      "description": "Tokens associated with the products listed at KEKDEX"
+    }
+  },
+  "timestamp": "2022-01-26T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 420666,
+      "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+      "symbol": "KEK",
+      "name": "KEK TOKEN",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 420666,
+      "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+      "symbol": "KEX",
+      "name": "KEKSWAP",
+      "decimals": 18,
+      "tags": ["defi"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 39,
+    "patch": 0
+  }
+}
